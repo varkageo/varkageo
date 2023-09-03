@@ -6,9 +6,10 @@
 <hr>
 <h2>About me:</h2>
 
-<p>- 🌱 I'm currently learning Spring Boot in Java. </p>
+<p>- 🌱 I'm currently learning Spring Boot in Java </p>
 <p>- 💬 Ask me about Java, MySQL, JavaScript, css</p>
 <p>- 📫 How to reach me: jesusalbertozerpamarin@gmail.com / varkageocuentas@gmail.com</p>
+<p>- 🌎 My native language is Spanish, and my English level is B2</p>
 <hr>
 <h2>Connect with me:<h2>
 <p><a href="https://www.linkedin.com/in/jesus-alberto-zerpa-marin-818ba3198/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LindedIn" title="LinkedInd" width="50" height="50"/>&nbsp;</a></p>
