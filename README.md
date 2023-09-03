@@ -15,7 +15,7 @@
 <p><a href="https://www.linkedin.com/in/jesus-alberto-zerpa-marin-818ba3198/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LindedIn" title="LinkedInd" width="50" height="50"/>&nbsp;</a></p>
 
 <h2>💫Languajes and Tools:</h2>
-<div>
+<div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS3" title="CSS3" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" title="bootstrap" width="40" height="40"/>&nbsp;
@@ -29,9 +29,12 @@
 <hr>
 
 ### My Stats:
-<img src="http://github-readme-streak-stats.herokuapp.com?user=varkageo&theme=dark&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api?username=varkageo&show_icons=true&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varkageo&layout=compact">
+<div align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=varkageo&theme=dark&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=varkageo&show_icons=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varkageo&layout=compact">
+</div>
+
 
 
 
