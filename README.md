@@ -6,8 +6,8 @@
 <hr>
 <h2>About me:</h2>
 
-<p>- 🌱 I'm currently learning Spring Boot in Java </p>
-<p>- 💬 Ask me about Java, MySQL, JavaScript, css</p>
+<p>- 🌱 I'm currently learning UX/UI </p>
+<p>- 💬 Ask me about Javascript, MySQL, css, html, user experience</p>
 <p>- 📫 How to reach me: jesusalbertozerpamarin@gmail.com / varkageocuentas@gmail.com</p>
 <p>- 🌎 My native language is Spanish, and my English level is B2</p>
 <hr>
@@ -23,7 +23,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="mysql" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" title="java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" title="git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="spring" title="spring" width="40" height="40"/>&nbsp;
+    
     
 </div>
 <hr>
